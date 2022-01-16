@@ -1,0 +1,6 @@
+body{background-size: cover;}
+.headding{
+    width: 100%; font-size: 30px; margin-top: 0px;
+}
+.footer{bottom: 0; width: 100%; text-align: center; position: fixed; background-color: aqua; color: crimson; font-size: 18px;}
+canvas{border: 5px ridge ; margin-top: 50px;}
